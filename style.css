@@ -74,3 +74,15 @@ tr .saveBtn {
   font-size: 30px;
   transition: all 0.3s ease-in-out;
 }
+
+.future {
+  background-color: #77dd77;
+}
+
+.present {
+  background-color: #ff6961;
+}
+
+.past {
+  background-color: #d3d3d3;
+}
